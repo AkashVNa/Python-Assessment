@@ -15,14 +15,31 @@ Analysis Tasks-
 
 Graphical Representation-
 1. Columns Number, Age, Weight, Height, Salary(All the columns which consist of a numerical value) are plotted against each other using pairplot.
+   ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/0321b86c-0e56-4ef7-b381-8d231f44cbaa)
+
 2. Countplot to find the count of teams with same number of employees.
+   ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/6aa56c45-fdd4-4d59-b4aa-61de187e99cd)
+
 3. Pie-chart to find the percentage distribution of employeesof each team.
+   ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/124e44c6-6510-49c5-81f0-d3a63e1d1a1d)
+
 4. Barplots to find distribution of employees in each position within every team team. For efficient analysis, the map is split into 6 submaps containing 5 teams each.
+   ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/6dbcab32-e693-4f5f-b524-f26e7d5a39b6)
+
 5. Countplot to find the predominant age in the dataset.
+    ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/4bf6304a-f743-44a1-9740-2ba8e42a8e9e)
+
 6. Barplot to relate team name vs salary.
+    ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/20a55c36-bded-4487-9aa6-595e8532ebeb)
+
 7. Barplot to relate  positions within the dataset vs salary.
+    ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/a5626778-36b1-4253-a045-b537b47e77fd)
+
 8. Scatterplot to find the relation between age and salary.
+    ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/918d0073-9cda-4998-86ef-d24d16916a2b)
+
 9. Heatmap to check the correlation between age and salary.
+    ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/304d4a40-9ff8-445b-9054-fce8e3c19fb7)
 
 Insights gained-
 Employee distribution:
