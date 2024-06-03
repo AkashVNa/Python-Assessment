@@ -17,8 +17,11 @@ Graphical Representation-
 1. Columns Number, Age, Weight, Height, Salary(All the columns which consist of a numerical value) are plotted against each other using pairplot.
    ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/0321b86c-0e56-4ef7-b381-8d231f44cbaa)
 
+
 2. Countplot to find the count of teams with same number of employees.
    ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/6aa56c45-fdd4-4d59-b4aa-61de187e99cd)
+
+
 
 3. Pie-chart to find the percentage distribution of employeesof each team.
    ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/124e44c6-6510-49c5-81f0-d3a63e1d1a1d)
