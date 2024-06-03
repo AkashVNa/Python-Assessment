@@ -55,6 +55,7 @@ Graphical Representation-
    ![download](https://github.com/AkashVNa/Python-Assessment/assets/168059839/304d4a40-9ff8-445b-9054-fce8e3c19fb7)
 
 Insights gained-
+
 Employee distribution:
   1. 23 out of 30 teams have 15 employees on their payscale which is approximately 77% of total teams.
   2. 2 teams(Orlando magic,Minnesota Timberwolves) have the lowest employee count=14 employees.
